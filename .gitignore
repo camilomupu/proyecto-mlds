@@ -3,3 +3,6 @@
 env_vars*
 credentials*
 **/build/*
+data/
+*.zip
+
